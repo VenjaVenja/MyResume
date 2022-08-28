@@ -64,7 +64,7 @@ a:hover {
 }
 .about-me-description {
   text-align: justify;
-  width: 400px;
+  /* width: 400px; */
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
